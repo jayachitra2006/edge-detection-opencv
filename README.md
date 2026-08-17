@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-- **Name:** SAIPRASATH P 
-- **Register No:** 212224230238  
+- **Name:** JAYACHITRA J
+- **Register No:** 212224040132  
 
 ---
 
